@@ -1,2 +1,2 @@
 # terraform_ec2
-Create a AWS ec2 install using variables
+Lets create a AWS ec2 instance using terraform
